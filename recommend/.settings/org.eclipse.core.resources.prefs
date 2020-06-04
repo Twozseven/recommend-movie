@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/dao/LikeDao.java=UTF-8
+encoding//src/dao/PaperDao.java=UTF-8
+encoding//src/dao/UserDao.java=UTF-8
+encoding//src/entity/Like.java=UTF-8
+encoding//src/entity/Paper.java=UTF-8
+encoding//src/entity/User.java=UTF-8
+encoding//src/servlet/IndexServlet.java=UTF-8
+encoding//src/servlet/LoginServlet.java=UTF-8
+encoding//src/servlet/LogoutServlet.java=UTF-8
+encoding//src/servlet/PaperServlet.java=UTF-8
+encoding//src/servlet/RegistServlet.java=UTF-8
+encoding//src/servlet/SearchServlet.java=UTF-8
+encoding//src/util/BaseDao.java=UTF-8
+encoding//src/util/ItemSimilarity.java=UTF-8
+encoding/zutki.iml=UTF-8
